@@ -1,2 +1,18 @@
-# funciones-javascript
-Proyecto en JavaScript que demuestra el uso de funciones tradicionales y arrow functions. Se trabaja con un arreglo de productos aplicando filter, map y reduce para filtrar por categoría, aplicar descuentos y encontrar el producto más caro. Ejecutar con Node.js.
+# Funciones y Arrow Functions en JavaScript
+
+Este proyecto demuestra el uso de funciones tradicionales y arrow functions en JavaScript mediante un ejercicio práctico.
+
+Se trabaja con un arreglo de productos aplicando:
+
+- filter: filtrar productos por categoría
+- map: aplicar descuentos
+- reduce: encontrar el producto más caro
+
+## Ejecución
+
+node app.js
+
+## Autor
+
+Marlon Oviedo  
+Ingeniería de Sistemas
